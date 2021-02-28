@@ -1,1 +1,16 @@
 # CS255
+
+# Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+DriverPass was a business that wanted to provide help to driving students through online resources, practice tests and on-the-road training.  They wanted a system that would allow their customers to schedule or change appointments online, as well as access resources and practice tests that they purchased.  They had a few different types of users to account for in order to satisfy the requirements, each with access to different functionalities and privileges.
+
+# What did you do particularly well?
+I think I did well using the information I had to create UML diagrams.  I tried to make my diagrams as thorough as possible while keeping it simple and allowing for some flexibility where I was making assumptions.  For example, one assumption I had was that registration is done by a secretary, but I tried to illustrate it in a way where the customer is the one providing information and could register themselves.  I tried to account for the entire process, including possibilities like failed payment, all the way until the information was stored.
+
+# If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+If I could revise something, I think I would revisit the business requirements document and try to come up with more specific or accurate examples, especially for the non-functional requirements.  I would come up with a plan and map out what servers, databases, software, security measures, etc. I want to use for the project and re-write the requirements with a better idea of what I wanted to do.
+
+# How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+I reviewed the transcript provided and translated it into as many requirements as I could, tracking who was able to do which tasks.  I kept track of everything customers should be able to do, as well as the secretary, owner, and IT officer.  Since I could not return to the customer with specific questions about some of the details, I made some assumptions to fill the holes.  It is important to consider the user’s needs because ultimately the product is for the user.  Users are the ones interacting with the system and the ones who will be affected if it has a lot of problems or fails to meet their needs.
+
+# How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+I approach designing software by carefully analyzing the requirements I’m given, planning how they will be executed, what tools will be needed and how to prioritize them.  I like the idea of using various diagrams to document the flow of data, the process for the user, the process for the system, or the various components and what they need to do.  I think the visuals and simplicity of the information provided in a variety of diagrams helps to create a picture of the whole system and works well with documentation methods like a requirements document, as they can help identify what kind of tools might be necessary, what components a system needs, or what other factors should be considered when designing certain parts.
